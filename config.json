@@ -1,0 +1,9 @@
+{
+  "API-keys":{
+    "weather" : "6787e4f159478632854487394c461404",
+    "news" : "931664165d2f4c1c86edf52c4b69e9f1"
+  },
+  "other":{
+    "city":"Exeter"
+  }
+}
